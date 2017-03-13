@@ -1,10 +1,8 @@
 _repo: The-Mayflower-and-Her-Log--July-15-1620-May-6-1621---Complete_4107
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 4107/4107-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 4107-h/images/cover.jpg
 creator:
   author:
     agent_name: Ames, Azel
@@ -13,6 +11,8 @@ creator:
     gutenberg_agent_id: '1392'
     url: http://www.gutenberg.org/2009/agents/1392
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4107#The-Mayflower-and-Her-Log--July-15-1620-May-6-1621---Complete
 gutenberg_issued: '2003-06-01'
 gutenberg_type: Text
 identifiers:
